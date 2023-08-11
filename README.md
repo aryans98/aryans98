@@ -1,18 +1,25 @@
-# 💫 About Me:
-I am an Electrical and Electronics Engineering student, currently pursuing my Bachelor's degree with a grade of first-class honors.<br><br>During my free time, I have worked on several exciting projects such as a Book Bot that I developed using Python, my personal portfolio website using HTML, CSS and JavaScript, a meme generating application that personalizes memes based on mood preferences, and an interactive counting website.<br><br>Apart from my academic and professional pursuits, I have volunteered as a Social Work Intern and actively participated in fundraising events and opportunities. I was also a finalist in the 2019 Indian National Mathematics Olympiad (INMO).
+<h1 align="center">Hi there, I'm Aryan Sindhav 👋</h1>
+<h3 align="center">I am an Electrical and Electronics Engineering student, currently pursuing my Bachelor's degree with a grade of first-class honors. During my free time, I have worked on several exciting projects such as a Book Bot that I developed using Python, my personal portfolio website using HTML, CSS and JavaScript, a meme generating application that personalizes memes based on mood preferences, and an interactive counting website. Apart from my academic and professional pursuits, I have volunteered as a Social Work Intern and actively participated in fundraising events and opportunities. I was also a finalist in the 2019 Indian National Mathematics Olympiad (INMO).</h3>
 
+- 👨‍💻 All of my projects are available at [https://aryan-sindhav.netlify.app/](https://aryan-sindhav.netlify.app/)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/s.aryxn/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aryan-sindhav/) 
+- 📫 How to reach me **aryansindhav@gmail.com**
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aryans98&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aryans98&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryans98&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- 📄 Know about my experiences [https://aryan-sindhav.netlify.app/aryan-resume.pdf](https://aryan-sindhav.netlify.app/aryan-resume.pdf)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- ⚡ Fun fact **I like pressing buttons...**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/aryan-sindhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan-sindhav" height="30" width="40" /></a>
+<a href="https://instagram.com/s.aryxn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.aryxn" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryans98&show_icons=true&locale=en&layout=compact" alt="aryans98" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryans98&show_icons=true&locale=en" alt="aryans98" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryans98&" alt="aryans98" /></p>
