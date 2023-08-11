@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm Aryan Sindhav 👋</h1>
 <h3 align="center">I am an Electrical and Electronics Engineering student, currently pursuing my Bachelor's degree with a grade of first-class honors. During my free time, I have worked on several exciting projects such as a Book Bot that I developed using Python, my personal portfolio website using HTML, CSS and JavaScript, a meme generating application that personalizes memes based on mood preferences, and an interactive counting website. Apart from my academic and professional pursuits, I have volunteered as a Social Work Intern and actively participated in fundraising events and opportunities. I was also a finalist in the 2019 Indian National Mathematics Olympiad (INMO).</h3>
 
-- 👨‍💻 All of my projects are available at [https://aryan-sindhav.netlify.app/](https://aryan-sindhav.netlify.app/)
+- 👨‍💻 Checkout my Portfolio-Website [https://aryan-sindhav.netlify.app/](https://aryan-sindhav.netlify.app/)
 
 - 📫 How to reach me **aryansindhav@gmail.com**
 
-- 📄 Know about my experiences [https://aryan-sindhav.netlify.app/aryan-resume.pdf](https://aryan-sindhav.netlify.app/aryan-resume.pdf)
+- 📄 Know about my experiences [https://aryan-sindhav.netlify.app/aryan-resume.pdf](aryan-resume)
 
 - ⚡ Fun fact **I like pressing buttons...**
 
