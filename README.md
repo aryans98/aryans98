@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h1 align="center">Hi there, I'm Aryan Sindhav 👋</h1>
-<h3 align="center">I am an Electrical and Electronics Engineering student, currently pursuing my Bachelor's degree with a grade of first-class honors. During my free time, I have worked on several exciting projects such as a Book Bot that I developed using Python, my personal portfolio website using HTML, CSS and JavaScript, a meme generating application that personalizes memes based on mood preferences, and an interactive counting website. Apart from my academic and professional pursuits, I have volunteered as a Social Work Intern and actively participated in fundraising events and opportunities. I was also a finalist in the 2019 Indian National Mathematics Olympiad (INMO).</h3>
+<h3 align="center">I am an Electrical and Electronics Engineering student, currently pursuing my Bachelor's degree with a grade of first-class honors. During my free time, I have worked on several exciting projects. Apart from my academic and professional pursuits, I have volunteered as a Social Work Intern and actively participated in fundraising events and opportunities. I was also a finalist in the 2019 Indian National Mathematics Olympiad (INMO).</h3>
 
 <br><br>- 👨‍💻 Checkout my Portfolio-Website [Portfolio](https://aryan-sindhav.netlify.app/)<br><br>- 📫 How to reach me **aryansindhav@gmail.com**<br><br>- 📄 Know about my experiences [Resume](https://aryan-sindhav.netlify.app/aryan-resume.pdf)<br><br>- ⚡ Fun fact **I like pressing buttons...**
 
@@ -14,8 +14,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=aryans98&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aryans98&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryans98&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
