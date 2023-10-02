@@ -1,5 +1,5 @@
-<h1 align="center">💫 About Me:</h1>
-<h2 align="center">Hi there, I'm Aryan Sindhav 👋</h2>
+<h1 align="center">Hi there, I'm Aryan Sindhav 👋</h1>
+<h2 align="left">💫 About Me:</h2>
 <h3 align="center">I am an Electrical and Electronics Engineering student, currently pursuing my Bachelor's degree with a grade of first-class honors. During my free time, I have worked on several exciting projects. Apart from my academic and professional pursuits, I have volunteered as a Social Work Intern and actively participated in fundraising events and opportunities. I was also a finalist in the 2019 Indian National Mathematics Olympiad (INMO).</h3>
 
 <br><br>- 👨‍💻 Checkout my Portfolio-Website [Portfolio](https://aryan-sindhav.netlify.app/)<br><br>- 📫 How to reach me **aryansindhav@gmail.com**<br><br>- 📄 Know about my experiences [Resume](https://aryan-sindhav.netlify.app/aryan-resume.pdf)<br><br>- ⚡ Fun fact **I like pressing buttons...**
